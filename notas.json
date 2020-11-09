@@ -1,0 +1,22 @@
+ [
+    {
+        "titulo": "truco de VSCode",
+        "cuerpo": "usar snippets para todo"
+    },
+    {
+        "titulo": "la función filter",
+        "cuerpo": "genera un nuevo array según un criterio"
+    },
+    {
+        "titulo": "la función map",
+        "cuerpo": "genera un nuevo array a partir de otro"
+    },
+    {
+        "titulo": "la función foreach",
+        "cuerpo": "permite ejecutar código para cada elemento de un array"
+    },
+    {
+        "titulo": "la función sort",
+        "cuerpo": "ordena según un criterio cualquiera"
+    }
+]
